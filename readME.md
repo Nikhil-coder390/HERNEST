@@ -67,9 +67,6 @@ The application will be live at http://localhost:3000/ 🚀
 
 💡 **Want to contribute?** Feel free to fork the repo and submit a PR!  
 
-
-💡 **Want to contribute?** Feel free to fork the repo and submit a PR!  
-
 ---
 
 ## 📜 License  
