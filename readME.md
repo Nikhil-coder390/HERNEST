@@ -63,7 +63,6 @@ The application will be live at http://localhost:3000/ 🚀
 | [Purushotham](https://github.com/contributor2) |
 | [Nikhil Sundaraneedi](https://github.com/contributor3) |
 
-💡 **Want to contribute?** Feel free to fork the repo and submit a PR!  
 
 ---
 
