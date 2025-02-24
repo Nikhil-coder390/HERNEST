@@ -42,7 +42,6 @@ The application will be live at http://localhost:3000/ 🚀
 - **Database:** Supabase  
 - **AI Chatbot:** OpenAI API (ChatGPT)  
 - **Authentication:** Supabase Auth  
-- **Video Consultations:** Google Meet/Zoom API  
 - **Styling:** Tailwind CSS  
 
 ---
@@ -52,7 +51,6 @@ The application will be live at http://localhost:3000/ 🚀
 - **Validating Doctors:** Ensuring only certified doctors can register.  
 - **Data Security:** Protecting sensitive health data and following **HIPAA/GDPR** compliance.  
 - **AI Chatbot Accuracy:** Training it for **reliable and medically sound responses**.  
-- **Seamless Payment Integration:** Implementing a secure way for users to book consultations.  
 - **User Anonymity & Privacy:** Enabling help-seeking without revealing personal details.  
 
 ---
