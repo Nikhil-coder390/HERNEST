@@ -59,7 +59,7 @@ The application will be live at http://localhost:3000/ 🚀
 
 | Name |
 |------|
-| [V S S L Deepak Janapa](https://github.com/your-github-profile) |
+| [V S S L Deepak Janapa](https://github.com/deepakjanapa) |
 | [Purushotham](https://github.com/contributor2) |
 | [Nikhil Sundaraneedi](https://github.com/contributor3) |
 
